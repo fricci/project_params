@@ -1,4 +1,4 @@
 [submodule "product_params"]
 	path = product_params
 	url = https://github.com/fricci/product_params.git
-	branch = v3
+	branch = v4
